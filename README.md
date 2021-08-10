@@ -1,7 +1,5 @@
 ![Header image](https://raw.githubusercontent.com/diggyhard/diggyhard/master/+/img.jpg)
-<!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
-I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
-
+Je developpe principalement en Php, Javascript, Html, Css, Less 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 
