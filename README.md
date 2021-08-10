@@ -6,4 +6,4 @@
 - La compréhension de la réalisation, du fonctionnement et de la mise en oeuvre de projets.
 
 
-[![macOS](https://raw.githubusercontent.com/diggyhard/diggyhard/master/+/macos.svg)](https://raw.githubusercontent.com/diggyhard/diggyhard/master/+/macos.svg)
+[![macOS](https://raw.githubusercontent.com/diggyhard/diggyhard/master/+/MACOS.svg)](https://raw.githubusercontent.com/diggyhard/diggyhard/master/+/MACOS.svg)
