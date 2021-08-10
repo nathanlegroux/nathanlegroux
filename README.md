@@ -3,7 +3,11 @@
 
 ## OS :
 
-[![macOS](https://raw.githubusercontent.com/diggyhard/diggyhard/master/+/os.svg)](https://raw.githubusercontent.com/diggyhard/diggyhard/master/+/os.svg)
+[![OS](https://raw.githubusercontent.com/diggyhard/diggyhard/master/+/os.svg)](https://raw.githubusercontent.com/diggyhard/diggyhard/master/+/os.svg)
+
+## Ce que j'utilise :
+
+[![Langages](https://raw.githubusercontent.com/diggyhard/diggyhard/master/+/langages.svg)](https://raw.githubusercontent.com/diggyhard/diggyhard/master/+/langages.svg)
 
 ## Mes centres d'intérêts :
 - Le développement web ( et, ou autour ^^ )
