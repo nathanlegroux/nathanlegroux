@@ -10,7 +10,7 @@
 [![Langages](https://raw.githubusercontent.com/diggyhard/diggyhard/master/+/langages.svg)](https://raw.githubusercontent.com/diggyhard/diggyhard/master/+/langages.svg)
 
 ## Mes centres d'intérêts :
-- Le développement web ( et, ou autour ^^ )
+- Le développement web ( et, ou autour )
 - La compréhension de la réalisation, du fonctionnement et de la mise en oeuvre de projets.
 
 
